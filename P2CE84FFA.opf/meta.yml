@@ -1,0 +1,31 @@
+id: P2CE84FFA
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA21588
+  instance_id: http://purl.bdrc.io/resource/IE21588
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསོ་རིག་གཅེས་བཏུས་རིན་ཆེན་ཕྲེང་བ།
+  alt_title:
+    zh-latn-wadegile:
+    - ti ma tan tseng p'eng ts'o i chu hsuan chi
+  author: http://purl.bdrc.io/resource/P331
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6079884c0bfc459fba3626a2e871d880:
+      title: པོད ༡་གསོ་རིག་གཅེས་བཏུས་རིན་ཆེན་ཕྲེང་བ
+      volume_number: 1
+      base_file: UT21588_4198_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9C71E7D887A9FB58
+      image_group: '4198'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W21588
+  - http://purl.bdrc.io/resource/MW21588
+  ocr_software: Namsel
+created_at: '2021-12-22T11:06:30.048179'
+last_modified_at: '2021-12-22T11:06:30.048186'
